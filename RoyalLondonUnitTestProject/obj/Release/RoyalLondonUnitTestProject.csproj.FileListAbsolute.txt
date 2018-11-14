@@ -1,0 +1,16 @@
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\RoyalLondonUnitTestProject.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\RoyalLondonUnitTestProject.pdb
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\RoyalLondon.exe
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\RoyalLondon.pdb
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\RoyalLondon.exe.config
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\obj\Release\RoyalLondonUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\obj\Release\RoyalLondonUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\obj\Release\RoyalLondonUnitTestProject.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondonUnitTestProject\obj\Release\RoyalLondonUnitTestProject.pdb

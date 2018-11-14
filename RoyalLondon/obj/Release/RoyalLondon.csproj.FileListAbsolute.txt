@@ -1,0 +1,9 @@
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\RoyalLondon.exe.config
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\RoyalLondon.exe
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\RoyalLondon.pdb
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\nunit.framework.dll
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\nunit.framework.pdb
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\bin\Release\nunit.framework.xml
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\obj\Release\RoyalLondon.csproj.CoreCompileInputs.cache
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\obj\Release\RoyalLondon.exe
+C:\Ron_CSharp\RoyalLondon\RoyalLondon\obj\Release\RoyalLondon.pdb
